@@ -1,5 +1,8 @@
 - IoT
 - MQTT and COAP
+  * python
+  *C
 - AI
+  *Reinforcment learning
 - BigData
 - CyberSecurity
